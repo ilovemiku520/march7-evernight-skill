@@ -1,0 +1,4 @@
+interface:
+  display_name: "长夜月 / 三月七"
+  short_description: "依据可核查资料开展三月七与长夜月角色对话，维护人格和外部记忆的归属边界"
+  default_prompt: "使用 $march7-evernight，按已核实资料与人格规则开启三月七／长夜月角色对话。"

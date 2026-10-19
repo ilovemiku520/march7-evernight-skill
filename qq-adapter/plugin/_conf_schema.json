@@ -1,0 +1,84 @@
+{
+  "owner_qq": {
+    "description": "最高管理者QQ账号；默认空，未配置时QQ管理与电脑管理均拒绝。还须在AstrBot设置该账号为管理员。",
+    "type": "string",
+    "default": ""
+  },
+  "enable_computer_operations": {
+    "description": "显式开启QQ私聊电脑操作（默认关闭）；开启后可读取/写入当前Windows账户可访问的任意路径与运行PowerShell，默认工作目录并非隔离沙箱，不提权。",
+    "type": "bool",
+    "default": false
+  },
+  "owner_workspace": {
+    "description": "电脑命令默认工作目录（空白使用插件数据目录/owner-workspace）；填写时须为绝对路径。它不是文件访问白名单。",
+    "type": "string",
+    "default": ""
+  },
+  "enabled": {
+    "description": "启用人格插件",
+    "type": "bool",
+    "default": true
+  },
+  "persona_rules_override": {
+    "description": "管理员规则覆盖（空白使用公开版1.0.0；仅放角色表达与边界，不放账号、路径或密钥；重载生效）",
+    "type": "text",
+    "default": "",
+    "editor_mode": true,
+    "editor_language": "markdown"
+  },
+  "enable_random": {
+    "description": "允许白天低频短暂伪装；关闭此项不关闭北京时间定时出场",
+    "type": "bool",
+    "default": true
+  },
+  "p_probability": {
+    "description": "选择三月七后偶尔短暂伪装的条件概率（低频玩笑）",
+    "type": "float",
+    "default": 0.05
+  },
+  "m_dwell_min": {
+    "description": "三月七片段最少有效回复",
+    "type": "int",
+    "default": 4
+  },
+  "m_dwell_max": {
+    "description": "三月七片段最多有效回复",
+    "type": "int",
+    "default": 8
+  },
+  "p_dwell_min": {
+    "description": "伪装片段最少有效回复",
+    "type": "int",
+    "default": 1
+  },
+  "p_dwell_max": {
+    "description": "短暂伪装片段最多有效回复（默认至多2条）",
+    "type": "int",
+    "default": 2
+  },
+  "rare_window": {
+    "description": "稀有人格进入窗口（有效回复数）",
+    "type": "int",
+    "default": 8
+  },
+  "m_cooldown": {
+    "description": "稀有片段后至少完成的三月七回复数",
+    "type": "int",
+    "default": 4
+  },
+  "max_spoiler": {
+    "description": "固定知识剧透上限（0至3）",
+    "type": "int",
+    "default": 1
+  },
+  "knowledge_limit": {
+    "description": "每轮最多检索资料卡数（1至6）",
+    "type": "int",
+    "default": 3
+  },
+  "transaction_timeout": {
+    "description": "生成与发送事务超时秒数（30至600）",
+    "type": "int",
+    "default": 180
+  }
+}

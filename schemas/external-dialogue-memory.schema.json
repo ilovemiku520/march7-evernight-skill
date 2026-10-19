@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Private attributed external dialogue memory",
+  "description": "For locally held, lawfully usable original text. Do not commit populated private memory. The runtime also rejects duplicate IDs, credentials in URLs, symlinks, and files larger than 16 MiB; speaker and ID prefix must agree.",
+  "type": "object",
+  "required": [
+    "version",
+    "records"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "records": {
+      "type": "array",
+      "maxItems": 20000,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "speaker",
+          "title",
+          "text",
+          "source_url",
+          "source_id",
+          "scene",
+          "spoiler",
+          "source_quality",
+          "expression_topics",
+          "use_for_expression"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 160,
+            "pattern": "^[ME][A-Za-z0-9_.:-]{1,159}$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 512
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 12000
+          },
+          "source_url": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2048,
+            "pattern": "^https?://"
+          },
+          "source_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "scene": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 512
+          },
+          "source_quality": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "speaker": {
+            "enum": [
+              "三月七",
+              "长夜月"
+            ]
+          },
+          "spoiler": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3
+          },
+          "expression_topics": {
+            "type": "array",
+            "maxItems": 32,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 80
+            }
+          },
+          "use_for_expression": {
+            "type": "boolean"
+          },
+          "scene_bound": {
+            "type": "boolean"
+          },
+          "addressee": {
+            "type": "string",
+            "maxLength": 512
+          },
+          "discussed_subject": {
+            "type": "string",
+            "maxLength": 512
+          },
+          "completeness": {
+            "type": "string",
+            "maxLength": 512
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "speaker": {
+                  "const": "三月七"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "id": {
+                  "pattern": "^M"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "speaker": {
+                  "const": "长夜月"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "id": {
+                  "pattern": "^E"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,2 +1,33 @@
-# march7-evernight-skill
-Noncommercial March 7th / Evernight roleplay skill with source-linked memory summaries and optional QQ adapter. 中文 / English / 日本語 / 한국어
+# 三月七 / 长夜月 Skill
+
+[中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+
+基于《崩坏：星穹铁道》的非商业同人角色对话 Skill，包含人格与表达规则、外部固定记忆摘要、来源索引，以及可选的 AstrBot + NapCat QQ 适配器。角色与原作权利归各自权利人；本项目不是米哈游官方产品。
+
+## 使用 Skill
+
+将 `skills/march7-evernight` 文件夹复制到支持 `SKILL.md` 的工具所使用的技能目录，或让工具从本仓库安装该路径。使用 `$march7-evernight` 请求角色对话或维护资料。根据当前语言读取对应参考文档；`SKILL.en.md`、`SKILL.ja.md`、`SKILL.ko.md` 是同一入口的翻译，可以替换本地 `SKILL.md`。不要同时安装同名语言副本。
+
+三月七是主人格，默认北京时间 07:00–21:00 出场；21:00–次日 07:00 为长夜月。这是项目演绎规则。三月七仅偶尔短暂模仿长夜月。两人彼此深爱；真实用户不自动成为配偶、开拓者或任一角色。
+
+回答优先理解题意和事实，再参考贴题的已核台词表达，最后少量即兴。学习整体选词、句法、停顿、转折与对象关系，不使用机械换词表。长夜月普通回复末尾一个 `♭`，严格格式、原样引用及退出角色等情况例外。
+
+## 外部记忆
+
+公开包提供 45 条原创摘要，以及 1,000 条来源记录的无正文索引；后者按角色与正文哈希去重为 932 条。索引不等于台词全文，也不是全游戏全集。未核实候选、私人聊天、机器运行信息、完整台词转录和原作图片音频不在公开包中。
+
+需要原句时按来源核对，并仅在有权使用的本机资料中导入。角色表达、原文资料查询与聊天记忆分别处理，不从用户闲聊自动改写固定资料。详见 [外部记忆政策](skills/march7-evernight/references/zh-CN/memory-policy.md)。
+
+## QQ 部署和权限
+
+Skill 本身不连接 QQ、不执行程序。可选适配器需部署者自行安装 AstrBot、NapCat，填写自己的模型密钥，并设置自己的真实管理员账号。公开版不预置任何人的账号或凭据。
+
+`owner_qq` 默认空，电脑操作默认关闭。设定框架管理员并填入 `owner_qq` 后，该真实账号每条消息默认具有角色管理权限，无需激活口令。只有另行开启 `enable_computer_operations`，该账号的私聊才可使用文件和程序功能。网页管理员不能冒充该 QQ 身份。
+
+开启电脑操作会允许当前 Windows 账户权限内的文件读取、写入、追加、列目录及 PowerShell 运行；默认工作目录不是沙箱，明确绝对路径可指向其他目录。不能突破操作系统权限或自动 UAC 提权。阅读 [部署与权限说明](docs/zh-CN/deployment.md) 后配置。
+
+## 授权
+
+本项目原创代码、规则与摘要适用 [非商业许可](LICENSE)，允许署名的个人非商业使用、修改及非商业再分发，禁止出售、付费机器人、收费 API、广告变现及其他商业用途。第三方软件与原作素材保留原有许可和权利，本许可不替它们授予新权利。这里提供的是非商业源码，不能称为 OSI 开源许可。
+
+[人格规则](skills/march7-evernight/references/zh-CN/persona-rules.md) · [第三方权利说明](THIRD_PARTY.md) · [验证记录](qq-adapter/VALIDATION.md)

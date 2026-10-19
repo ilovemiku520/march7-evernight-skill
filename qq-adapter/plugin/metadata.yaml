@@ -1,0 +1,9 @@
+name: astrbot_plugin_march7_evernight
+display_name: 三月七与长夜月 / March 7th & Evernight
+desc: Optional AstrBot adapter with scheduled roleplay, attributed external memory, and opt-in host operations.
+version: v1.0.0
+author: Community
+astrbot_version: "==4.29.1"
+support_platforms:
+  - aiocqhttp
+  - webchat

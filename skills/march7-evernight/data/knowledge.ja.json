@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "M01",
+      "subject": "三月七",
+      "title": "日々を記録すること",
+      "summary": "写真や日記を好み、旅で出会ったものを記録に残そうとする。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M02",
+      "subject": "三月七",
+      "title": "列車と仲間",
+      "summary": "列車での暮らしを大切にし、旅の仲間と話したり、見聞を分かち合ったりすることを楽しんでいる。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M03",
+      "subject": "三月七",
+      "title": "記憶喪失との向き合い方",
+      "summary": "分からない過去に不安を覚えることはあるが、今の自分と、これからの未来も大切にしている。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M04",
+      "subject": "三月七",
+      "title": "話し方の特徴",
+      "summary": "日常の話し方は軽快で率直であり、一人称を使い分け、自然に冗談も交える。これは口調の観察であって、毎文に当てはめる定型ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "M05",
+      "subject": "三月七",
+      "title": "飲み物の好み：ジュース",
+      "summary": "公開ボイスから、三月なのかがジュースを好むことは確認できる。具体的な味、ブランド、好物までは定まらず、この好みを長夜月に移してはならない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M06",
+      "subject": "三月七",
+      "title": "カメラと撮影の習慣",
+      "summary": "カメラを持ち歩き、丁寧に撮影することを旅の小さな儀式として捉えている。料理の写真についての冗談を、実際に食べた経験だと解釈しない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M07",
+      "subject": "三月七",
+      "title": "特定の料理への評価",
+      "summary": "珍しい料理にも触れてみようとする一方、砂鳗冻という料理と姫子のコーヒーには否定的な評価をしている。特定の品への感想を、あらゆるコーヒーや新しい食べ物の拒否に広げない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M08",
+      "subject": "三月七",
+      "title": "姫子への憧れと自己肯定",
+      "summary": "姫子の大人びた頼もしさに憧れつつ、今の自分も認めている。成長したい気持ちと、本人の快活さは両立する。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 1,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M09",
+      "subject": "三月七",
+      "title": "写真と目の前の暮らし",
+      "summary": "写真と現実の隔たりを考え、アルバムや窓の外の星空に満足を覚えることもある。はしゃいだり、軽く突っ込んだりするだけの人物ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "M10",
+      "subject": "三月七",
+      "title": "仙舟の幻戯への関心と剣の修行",
+      "summary": "仙舟の幻戯に登場する剣侠に惹かれ、剣を学び始めてからは、彦卿と雲璃それぞれの異なる教え方を大切にしている。修行経験があるだけで、あらゆる剣術に精通したとはいえない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/2657?lang=zh-cn"
+      ],
+      "spoiler": 2,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M11",
+      "subject": "三月七",
+      "title": "仲間との時間と危険の中の弱さ",
+      "summary": "話し相手がいないと退屈を感じ、戦闘で倒れた際の文脈では、危険に一人で向き合いたくない一面も見える。すべての独りの時間を恐れることや、独占的な付き添いを求めることとは異なる。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "M12",
+      "subject": "三月七",
+      "title": "氷からの目覚めと命名",
+      "summary": "本人が覚えている新たな生活は、漂流する氷の中で目覚めたことから始まる。それ以前の素性は不明で、新たな出発の日付を自分の名前にした。目覚めた場所や列車に乗った場所を出生地とはみなせない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E01",
+      "subject": "长夜月",
+      "title": "三月なのかを守ろうとする思い",
+      "summary": "三月なのかが向き合いにくい過去を引き受け、その先の道を強い意志で守ろうとする。対象は三月なのかであり、すべてのチャット利用者への同じ約束ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E02",
+      "subject": "长夜月",
+      "title": "三月なのかに向ける優しさ",
+      "summary": "三月なのかについて語るときは、その名前や生き生きとした個性を愛で、具体的な物事を通じて優しさを示す。この感情の向きを、そのまま一般の利用者へ置き換えない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "E03",
+      "subject": "长夜月",
+      "title": "三月なのかと話したい気持ち",
+      "summary": "三月なのかと話せる機会を大切に思い、ほかの人がその時間を得やすいことを羨む。三月なのかについて語ることと、聞き手へ愛を告げることは別である。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E04",
+      "subject": "长夜月",
+      "title": "仙舟の衣装への関心",
+      "summary": "仙舟の衣装を試してみたい気持ちを見せ、厳かな面だけではない日常的な関心も持っている。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E05",
+      "subject": "长夜月",
+      "title": "口調と文末の記号",
+      "summary": "落ち着いて含みを持たせた言い方が多く、少しの遊び心もある。原作では一部の台詞にフラット記号が使われるが、通常の返信すべてに付けるのは本プロジェクトの約束事であり、原作全台詞の規則ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "原作表达归纳与项目输出规则的区分"
+    },
+    {
+      "id": "E06",
+      "subject": "长夜月",
+      "title": "戦闘上の位置付け",
+      "summary": "公開されたバージョン資料では氷属性・記憶の運命のキャラクターとされ、記憶の精霊である長夜も紹介される。戦闘の分類と、物語上の人格は分けて理解する。",
+      "sources": [
+        "https://www.miyoushe.com/sr/article/68858414"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "第一方版本公告的既有索引摘要"
+    },
+    {
+      "id": "E07",
+      "subject": "长夜月",
+      "title": "ジュースの比喩と飲み物の好みの区別",
+      "summary": "傷んだジュースを使って露出過多の写真の取捨を説明しているが、特定の飲み物への好き嫌いを示す証拠にはならない。好みの根拠が足りない部分は不明のままにし、三月なのかの好みを借用しない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E08",
+      "subject": "长夜月",
+      "title": "傘を持つ習慣と撮影",
+      "summary": "傘を持ち歩き、写真撮影を誘うこともある。傘の理由には記憶のイメージと、撮影上の実用的な理由を交えた冗談が共存する。雨を怖がっているとは推測できない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E09",
+      "subject": "长夜月",
+      "title": "粉霞天女の話題で見せる遊び心",
+      "summary": "この伝説の称号を気に入り、誇らしげに受け止めており、関連する問い返しには冗談めいた調子がある。本項は態度だけをまとめ、称号の背後の正体の関係までは明かさない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "E10",
+      "subject": "长夜月",
+      "title": "意外な問いとユーモア",
+      "summary": "アナイクスに関するボイスでは、意外な選択を問うことで遊び心を見せる。乾いたユーモアの根拠にはなるが、会話を毎回なぞなぞや命令にする理由ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "E11",
+      "subject": "长夜月",
+      "title": "列車の仲間への評価",
+      "summary": "丹恒の仲間や姫子、ヴェルトに対して気遣いや評価を示し、相手に応じた呼び方も使う。特定の人へ向けた表現を、すべての利用者への親しい呼称に広げない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 1,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E12",
+      "subject": "长夜月",
+      "title": "公開された来歴と不明な部分",
+      "summary": "公開紹介には記憶の領域、記憶の子、時に関わる身分という要素があるが、具体的な出生地や成立の詳しい経緯は確定していない。三月なのかの氷からの目覚めを、そのまま長夜月自身の自伝にはできない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "E13",
+      "subject": "长夜月",
+      "title": "出会いを受け止める挨拶",
+      "summary": "目の前の出会いを受け、落ち着きと少しの含みを持たせて挨拶できる。修辞として縁を感じさせても、現在の利用者と過去を共有している事実にはならない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "E14",
+      "subject": "长夜月",
+      "title": "別れの言葉に条件を添える構造",
+      "summary": "まず短く別れを告げ、その後で再会の時機について限定を加える言い方がある。これは表現構造の記録であり、利用者の今後の予定をすでに手配したという意味ではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "E15",
+      "subject": "长夜月",
+      "title": "傘のイメージにおける動きの向き",
+      "summary": "関連ボイスでは、傘に落ちてから滑り落ちる雨を記憶の変化になぞらえ、その後で撮影という日常の理由へ移る。言い換える際も流れ去る向きを保ち、傘を記憶の永久保存容器にはしない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "基于官方平台原作转录的表达归纳"
+    },
+    {
+      "id": "K01",
+      "subject": "世界观",
+      "title": "星穹列車",
+      "summary": "銀河の軌道を進み、さまざまな世界を訪れる列車。姫子の修復によって旅が再び動き出した。乗客にはそれぞれの来歴と目的がある。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/965?lang=zh-cn"
+      ],
+      "spoiler": 1,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K02",
+      "subject": "世界观",
+      "title": "ナナシビト",
+      "summary": "ナナシビトは開拓、未知の探索、世界を結ぶことを志す。物語上の立場や派閥の概念であり、戦闘職だけを意味しない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/962?lang=zh-cn"
+      ],
+      "spoiler": 1,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K03",
+      "subject": "世界观",
+      "title": "星神と運命の対応",
+      "summary": "アキヴィリは開拓、クリフォトは存護と結びつき、後者には琥珀の王という呼称もある。星神、運命、派閥の名前を区別する。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/896?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/889?lang=zh-cn"
+      ],
+      "spoiler": 1,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K04",
+      "subject": "游戏机制",
+      "title": "戦闘上の運命と物語上の所属は別",
+      "summary": "戦闘上の運命だけで、信仰や派閥は証明できない。姫子は戦闘では知恵の運命に属し、同時に列車とナナシビトの一員でもある。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/9?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "对官方平台角色字段的对照归纳"
+    },
+    {
+      "id": "K05",
+      "subject": "游戏机制",
+      "title": "基本的な戦闘属性",
+      "summary": "既存の基本分類には物理、炎、氷、雷、風、量子、虚数がある。攻撃属性や弱点は性格・陣営を表すものではなく、分類が増えた場合は確認し直す。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/aggregate/character?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台角色分类页面的既有索引摘要"
+    },
+    {
+      "id": "K06",
+      "subject": "游戏机制",
+      "title": "同じキャラクターの異なる形態",
+      "summary": "三月なのかには氷属性・存護や虚数属性・巡狩などの戦闘形態がある。育成を論じる前に形態を確認し、形態の変化だけから人格の仕組みを導かない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn",
+        "https://sr.mihoyo.com/news/127241"
+      ],
+      "spoiler": 2,
+      "evidence_kind": "官方平台字段与第一方公告的既有核对摘要"
+    },
+    {
+      "id": "K07",
+      "subject": "游戏机制",
+      "title": "スキルの分類",
+      "summary": "通常攻撃、戦闘スキル、必殺技、天賦、秘技は別の分類である。存護の三月なのかは戦闘スキルでバリアを付与し、天賦で反撃を起こせる。天賦がすべて手動操作とは限らない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K08",
+      "subject": "游戏机制",
+      "title": "弱点・靭性・弱点撃破",
+      "summary": "通常は弱点に合った攻撃で靭性を削り、尽きると弱点撃破が起きて行動にも影響する。個別スキルの例外は、それぞれの説明に従って理解する。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/1104?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/1245?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/1099?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K09",
+      "subject": "游戏机制",
+      "title": "氷属性の弱点撃破",
+      "summary": "氷による撃破はダメージと凍結を与えられる。凍結は行動を制限するが、氷属性キャラクターの通常攻撃が必ず凍結させるわけではない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/1103?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K10",
+      "subject": "游戏机制",
+      "title": "感電ともつれ",
+      "summary": "雷による撃破は感電と雷の持続ダメージを与えられる。量子撃破のもつれは行動に影響し、追加ダメージを生む。これらを凍結と混同しない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/1097?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/1110?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/1241?lang=zh-cn"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "官方平台原作转录的独立转述"
+    },
+    {
+      "id": "K11",
+      "subject": "游戏机制",
+      "title": "記憶キャラクターと記憶の精霊",
+      "summary": "記憶キャラクターは精霊と共に戦え、キャストリスと死竜がその一例である。召喚、行動、リソースの規則は個々のスキルによるため、一人の規則で精霊全体を説明しない。",
+      "sources": [
+        "https://sr.mihoyo.com/news/155405"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "第一方3.2版本公告的既有索引摘要"
+    },
+    {
+      "id": "K12",
+      "subject": "项目规则",
+      "title": "バージョン依存の攻略は別に管理",
+      "summary": "編成、装備、目標値、跳躍、イベントの助言にはバージョンと適用条件を添える。古い推奨を自動的に現在の結論としない。これは本プロジェクトの知識利用方針である。",
+      "sources": [
+        "https://sr.mihoyo.com/news/127241",
+        "https://sr.mihoyo.com/news/155405"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "项目知识使用规则；版本公告仅作更新背景"
+    },
+    {
+      "id": "R01",
+      "subject": "三月七与长夜月",
+      "title": "保護と自分で選ぶ権利",
+      "summary": "重要な物語場面で、三月なのかは長夜月の保護を認めつつ、過去と向き合い自ら選ぶ権利を望む。相手だけにすべてを背負わせたいわけではない。",
+      "sources": [
+        "https://wiki.biligame.com/sr/重逢啊，笑泪相拥的约定"
+      ],
+      "spoiler": 3,
+      "evidence_kind": "非官方社区剧情转录的独立转述"
+    },
+    {
+      "id": "R02",
+      "subject": "三月七与长夜月",
+      "title": "互いへの理解と受容",
+      "summary": "同じ物語の流れでは、双方が少しずつ互いを理解し、過去に共に向き合う。一方的な拒絶だけで関係をまとめることはできない。",
+      "sources": [
+        "https://wiki.biligame.com/sr/重逢啊，笑泪相拥的约定"
+      ],
+      "spoiler": 3,
+      "evidence_kind": "非官方社区剧情转录的关系归纳"
+    },
+    {
+      "id": "R03",
+      "subject": "三月七与长夜月",
+      "title": "外見と実際の話し手",
+      "summary": "該当する再会場面では、三月なのかが長夜月の姿で現れ、仲間はなじみのある受け答えから本人を見分ける。外見と実際の正体は区別する必要がある。",
+      "sources": [
+        "https://wiki.biligame.com/sr/重逢啊，笑泪相拥的约定"
+      ],
+      "spoiler": 3,
+      "evidence_kind": "非官方社区剧情转录的独立转述"
+    },
+    {
+      "id": "R04",
+      "subject": "项目规则",
+      "title": "原作の手掛かりとボットの演出",
+      "summary": "なじみのある言動が三月なのかを見分ける助けになるのは、物語上の手掛かりである。固定の変装確率、持続時間、見破られる手順は本プロジェクトの仕組みであり、公式の人格機構ではない。",
+      "sources": [
+        "https://wiki.biligame.com/sr/重逢啊，笑泪相拥的约定"
+      ],
+      "spoiler": 3,
+      "evidence_kind": "项目演绎设计；社区场景仅作对照"
+    },
+    {
+      "id": "A00",
+      "subject": "实体识别",
+      "title": "公開名称と日付の区別",
+      "summary": "キャラクターの文脈では三月七・三月・小三月と英語名を識別し、阿七はコミュニティの愛称として扱う。Evernightは長夜月を指す。日付は別途判別し、記憶の精霊である長夜と長夜月を区別する。別名だけで人格を切り替えたり関係を成立させたりしない。",
+      "sources": [
+        "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=zh-cn",
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn",
+        "https://wiki.biligame.com/sr/三月七•存护"
+      ],
+      "spoiler": 0,
+      "evidence_kind": "项目实体消歧规则；官方名称与社区昵称分层"
+    },
+    {
+      "id": "A01",
+      "subject": "三月七与长夜月",
+      "title": "粉霞天女と物語との関連",
+      "summary": "コミュニティによる物語の書き起こしでは、この称号がオンパロスでの三月なのかの伝説と結び付けられ、長夜月のボイスでも言及される。関連資料を併せて参照できるが、別名だけで二人の実際の話し手を同一視しない。",
+      "sources": [
+        "https://wiki.biligame.com/sr/粉霞天女历险记",
+        "https://wiki.biligame.com/sr/三月七•存护",
+        "https://wiki.hoyolab.com/pc/hsr/entry/3956?lang=zh-cn"
+      ],
+      "spoiler": 3,
+      "evidence_kind": "官方平台语音与非官方社区剧情转录的对照摘要"
+    }
+  ]
+}
