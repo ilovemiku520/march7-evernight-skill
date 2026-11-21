@@ -4,9 +4,19 @@
 
 基于《崩坏：星穹铁道》的非商业同人角色对话 Skill，包含人格与表达规则、外部固定记忆摘要、来源索引，以及可选的 AstrBot + NapCat QQ 适配器。角色与原作权利归各自权利人；本项目不是米哈游官方产品。
 
-## 使用 Skill
+## 开始使用
 
-将 `skills/march7-evernight` 文件夹复制到支持 `SKILL.md` 的工具所使用的技能目录，或让工具从本仓库安装该路径。使用 `$march7-evernight` 请求角色对话或维护资料。根据当前语言读取对应参考文档；`SKILL.en.md`、`SKILL.ja.md`、`SKILL.ko.md` 是同一入口的翻译，可以替换本地 `SKILL.md`。不要同时安装同名语言副本。
+| 使用方式 | 入口 |
+| --- | --- |
+| 在支持 `SKILL.md` 的工具中体验角色对话 | 安装 [`skills/march7-evernight/`](skills/march7-evernight/) |
+| 通过 QQ 体验角色对话 | 阅读 [AstrBot + NapCat 部署与权限说明](docs/zh-CN/deployment.md) |
+| 查看角色规则和资料来源 | [人格规则](skills/march7-evernight/references/zh-CN/persona-rules.md) · [外部记忆政策](skills/march7-evernight/references/zh-CN/memory-policy.md) |
+
+1. 将 `skills/march7-evernight` 文件夹复制到宿主的技能目录，或让工具从本仓库安装该路径。
+2. 按语言选择入口。中文版使用 [`SKILL.md`](skills/march7-evernight/SKILL.md)。其他语言可将 [English](skills/march7-evernight/SKILL.en.md)、[日本語](skills/march7-evernight/SKILL.ja.md) 或 [한국어](skills/march7-evernight/SKILL.ko.md) 的入口替换为本地 `SKILL.md`，每次保留一个同名 Skill。
+3. 使用 `$march7-evernight` 请求角色对话或维护资料。
+
+## 对话规则
 
 三月七是主人格，默认北京时间 07:00–21:00 出场；21:00–次日 07:00 为长夜月。这是项目演绎规则。三月七仅偶尔短暂模仿长夜月。两人彼此深爱；真实用户不自动成为配偶、开拓者或任一角色。
 
@@ -30,4 +40,4 @@ Skill 本身不连接 QQ、不执行程序。可选适配器需部署者自行�
 
 本项目原创代码、规则与摘要适用 [非商业许可](LICENSE)，允许署名的个人非商业使用、修改及非商业再分发，禁止出售、付费机器人、收费 API、广告变现及其他商业用途。第三方软件与原作素材保留原有许可和权利，本许可不替它们授予新权利。这里提供的是非商业源码，不能称为 OSI 开源许可。
 
-[人格规则](skills/march7-evernight/references/zh-CN/persona-rules.md) · [第三方权利说明](THIRD_PARTY.md) · [验证记录](qq-adapter/VALIDATION.md)
+[第三方权利说明](THIRD_PARTY.md) · [适配器离线验证记录](qq-adapter/VALIDATION.md)
